@@ -2,9 +2,9 @@
 
 ## Welcome!
 
-We are super excited to have you in this Creating Microsoft DevOps Solutions class! Because of the nature of this class there is a fair amount of setup and teardown needed at the start of the week and the end of the week.
+We are super excited to have you in the Creating Microsoft DevOps Solutions class! Because of the nature of this class there is a fair amount of setup and teardown needed at the start of the week and at the end of the week.
 
-At the start of the week, we are going to configure a myriad of services to use with our Azure DevOps projects. Some of these services will require creating accounts and a few of the services will require one member of the team to enter a credit card number (although you will not be charged any money).
+At the start of the week, we are going to configure a myriad of services to use with our Azure DevOps projects. Some of these services will require creating accounts and a few of the services will require one member of the team to enter a credit card number (although you will not be charged).
 
 Because we have a large class divided into many teams, we will be using software such as WebEx and Slack to easily communicate when the whole class is together and when the class is divided into breakout rooms.
 
@@ -30,9 +30,9 @@ Your temporary email account will be:
 Bob.Smith@coffeeshopcode.com
 ```
 
-This email account forwards to the work email address we were provided with. You may use this temporary email account for all of the accounts created in the course. For Slack, you must use this account in order to connect into our Slack instance.
+This email account forwards to the email address we were provided with. If you prefer for us to forward to another email account, please let the instructor know. You may use this temporary email account for all of the accounts created in the course. For Slack, you must use this account in order to connect into our Slack instance.
 
-This temporary email account will be deleted after class is over.
+This temporary email account will be deleted after class is over. No emails received by the temporary account are stored in the temporary account.
 
 ## Credit Cards
 
