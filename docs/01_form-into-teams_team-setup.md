@@ -40,3 +40,11 @@ To create accounts for services such as Azure and SonarCloud a valid credit card
 
 Please email me the name of the person(s) who entered their credit cards. I will work with them on last day to ensure accounts are cancelled and no charges are made to their cards.
 
+## Logins and Passwords
+
+By the time this class is over, you will have created many accounts and set many passwords. We recommend that you maintain a simple text document with all of the logins including:
+
+- Vendor Name
+- Login Url
+- Username/Email
+- Password
