@@ -36,11 +36,11 @@ This temporary email account will be deleted after class is over. No emails rece
 
 ## Credit Cards
 
-To create accounts for services such as Azure and SonarCloud a valid credit card is needed. One person the team will need to volunteer to use their card. No charges should be posted to the account and it is preferred to have one person use their credit card for both services.
+To create accounts for services such as Azure and SonarCloud a valid credit card is needed. One person on the team will need to volunteer to use their credit card. No charges should be posted to the account and it is preferred to have one person use their credit card for all services that require a credit card.
 
-Please email me the name of the person(s) who entered their credit cards. I will work with them on last day to ensure accounts are cancelled and no charges are made to their cards.
+Please email me the name of the person(s) who entered their credit cards. I will work with them on the last day to ensure accounts are cancelled and no charges are made to their cards.
 
-## Logins and Passwords
+## Personal Logins and Passwords
 
 By the time this class is over, you will have created many accounts and set many passwords. We recommend that you maintain a simple text document with all of the logins including:
 
@@ -48,3 +48,9 @@ By the time this class is over, you will have created many accounts and set many
 - Login Url
 - Username/Email
 - Password
+
+## Team Information including Keys and Tokens
+
+For the team, many types of information will be collected including keys and tokens. For the duration of the course, we recommend storing this information in pinned message in the team's Slack Channel so anyone on the team can access it. Since only teams members can access a team's channel this should be secure enough to conduct our labs during the week.
+
+We DO NOT recommend that just one person collect this information and manage it as that person could be out sick one day and the team members will not have access to it.
