@@ -8,9 +8,9 @@ Please visit this link, and create a Slack account with the temporary email prov
 
 Click here to register and sign in: [https://slack.com/signin](https://slack.com/signin)
 
-After creating a Slack account, record the password.
-
 In the textbox below the "OR", type in your temporary email address and follow the steps. The Slack client is already installed on your lab machine.
+
+After creating a Slack account, record the password.
 
 ## Team Slack Channel
 
@@ -18,7 +18,7 @@ Each team will need to create a Slack Channel with the following name pattern: `
 
 For example, if you are team 2, and your team decides to be called the CodeBots, you Slack Channel name would be: "Team2-CodeBots"
 
-Please invite the instructor to your Slack Channel.
+Please invite only your team members and the instructor to your Slack Channel.
 
 ## Slack Warning
 

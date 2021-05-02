@@ -6,7 +6,7 @@ Due to a [recent policy change](https://devblogs.microsoft.com/devops/change-in-
 
 ## Request Free Tier Access
 
-It takes them a day or two to grant access. If a team sends the email and access is not granted for any reason, then let the instructor know immediately.
+It takes them a day or two to grant access. If a team sends the email and access is not granted by the time we need it, for any reason, then let the instructor know immediately. If you recieve an email from Microsoft asking for extra details, please let the instructor know ASAP. We want to reply as fast as possible.
 
 After creating the team's organization in Azure DevOps, have the team leader send the following email to Microsoft at `azpipelines-freetier@microsoft.com`. Please copy the instructor on the email.
 
