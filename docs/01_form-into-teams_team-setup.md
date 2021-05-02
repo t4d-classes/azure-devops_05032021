@@ -51,6 +51,6 @@ By the time this class is over, you will have created many accounts and set many
 
 ## Team Information including Keys and Tokens
 
-For the team, many types of information will be collected including keys and tokens. For the duration of the course, we recommend storing this information in pinned message in the team's Slack Channel so anyone on the team can access it. Since only teams members can access a team's channel this should be secure enough to conduct our labs during the week.
+For the team, many types of information will be collected including keys and tokens. For the duration of the course, we recommend storing this information in a pinned message in the team's Slack Channel so anyone on the team can access it. Since only teams members can access a team's channel this should be secure enough to conduct our labs during the week.
 
 We DO NOT recommend that just one person collect this information and manage it as that person could be out sick one day and the team members will not have access to it.
